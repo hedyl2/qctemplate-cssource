@@ -1,0 +1,12 @@
+$attachment "forward" "ValveBiped.forward" 0 0 0 rotate 0 0 0
+$attachment "grenade0" "ValveBiped.Bip01_Spine" 0.93 -1.2 6.89 rotate 58.46 97.39 89.32
+$attachment "grenade1" "ValveBiped.Bip01_Spine" 0.85 -2.22 3.85 rotate 8.84 100.35 90.93
+$attachment "grenade2" "ValveBiped.Bip01_Spine" 0.98 -0.74 -7.35 rotate -56.13 107.75 82.33
+$attachment "grenade3" "ValveBiped.Bip01_Spine" 0.77 2.72 -8.49 rotate -57.19 98.07 93.46
+$attachment "pistol" "ValveBiped.Bip01_R_Thigh" 2.61 4.11 -6.72 rotate 0.16 -6.07 77.04
+$attachment "primary" "ValveBiped.Bip01_Spine2" 11.29 -4.29 5.07 rotate -7.8 178.32 -179.54
+$attachment "eholster" "ValveBiped.Bip01_L_Thigh" 8.66 -0.74 5.6 rotate 0.21 -91.24 95.38
+$attachment "c4" "ValveBiped.Bip01_Spine2" 14.02 -6.83 -6.91 rotate -47.49 75.03 15.79
+$attachment "lfoot" "ValveBiped.Bip01_L_Foot" 0 5.3 0 rotate 0 0 0
+$attachment "rfoot" "ValveBiped.Bip01_R_Foot" 0 5.3 0 rotate 0 0 0
+$attachment "muzzle_flash" "ValveBiped.Bip01_L_Hand" 0 0 0 rotate 0 0 0
